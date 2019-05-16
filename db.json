@@ -1,10 +1,10 @@
 {
-	"v1": {
+	"v1": [],
 		"users": {
 			"id": 1,
 			"kit_results": {
 				"something": "asdf"
 			}
 		}
-	}
+	
 }
