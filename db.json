@@ -1,10 +1,41 @@
 {
-	"v1": [],
-		"users": {
-			"id": 1,
-			"kit_results": {
-				"something": "asdf"
-			}
+	"users": [{
+		"id": 1
+	}],
+	"kit_results": [{
+			"product_name": "Elements Panel",
+			"id": 11,
+			"number": "KRB6C0C0916739416183AC4576429B67",
+			"box_image_url": null,
+			"kit_registered_at": "May 09, 2019",
+			"lab_received_at": null,
+			"results_approved_at": null,
+			"status": "Registered",
+			"userId": "1"
+		},
+		{
+			"product_name": "Elements Panel",
+			"id": 12,
+			"number": "KRC0EA424CDE1947C282C48B1EFCD1DB",
+			"box_image_url": null,
+			"kit_registered_at": "May 09, 2019",
+			"lab_received_at": null,
+			"results_approved_at": null,
+			"status": "Registered",
+			"userId": "1"
+		},
+		{
+			"product_name": "Elements Panel",
+			"id": 13,
+			"number": "KR54C08C7EAD4548AAB3DF61A61A51D3",
+			"box_image_url": null,
+			"kit_registered_at": "May 09, 2019",
+			"lab_received_at": null,
+			"results_approved_at": null,
+			"status": "Registered",
+			"userId": "1"
+
 		}
-	
+
+	]
 }
